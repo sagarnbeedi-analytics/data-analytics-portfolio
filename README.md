@@ -72,8 +72,8 @@ I love solving real-world business problems using data and continuously improvin
 
 ## 📫 Contact Me
 
-- 📧 **Email:** sagarbeedi@example.com  
-- 💼 **LinkedIn:** (Add your LinkedIn link here)  
+- 📧 **Email:** beedisagar@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sagar-beedi-08935b168/
 
 ---
 
