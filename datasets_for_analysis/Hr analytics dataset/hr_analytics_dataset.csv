@@ -1,0 +1,301 @@
+employee_id,age,gender,department,job_role,education_level,hire_year,experience_years,salary,performance_rating,attrition,marital_status,overtime,work_life_balance,satisfaction_score
+1001,50,Female,IT,Analyst,High School,2020,10,201048,1,No,Married,No,Poor,2
+1002,36,Female,R&D,Executive,High School,2010,12,199668,3,No,Single,Yes,Good,10
+1003,29,Female,Sales,Executive,Bachelors,2012,16,179243,1,No,Divorced,Yes,Excellent,1
+1004,42,Male,IT,Lead,PhD,2022,7,111365,3,No,Married,Yes,Average,2
+1005,40,Male,Sales,Specialist,PhD,2016,20,139014,5,No,Single,Yes,Excellent,5
+1006,44,Male,Sales,Lead,Masters,2019,17,200211,1,Yes,Single,No,Poor,4
+1007,32,Other,Sales,Manager,Bachelors,2013,29,204785,4,No,Divorced,No,Average,4
+1008,32,Female,R&D,Manager,High School,2017,17,185806,3,No,Divorced,No,Poor,9
+1009,45,Other,Operations,Lead,Bachelors,2019,30,97588,4,No,Divorced,No,Excellent,8
+1010,57,Male,R&D,Specialist,Masters,2014,31,88646,1,No,Married,Yes,Poor,6
+1011,45,Female,HR,Lead,Masters,2020,10,28654,4,No,Single,No,Excellent,1
+1012,24,Other,IT,Specialist,Bachelors,2011,24,245094,4,No,Divorced,No,Poor,2
+1013,43,Female,Operations,Specialist,Bachelors,2021,32,43743,1,Yes,Married,Yes,Excellent,6
+1014,23,Other,Operations,Engineer,Bachelors,2011,7,73368,5,No,Married,Yes,Good,2
+1015,45,Female,Operations,Specialist,PhD,2018,10,246097,4,No,Married,Yes,Poor,10
+1016,51,Male,Operations,Executive,High School,2019,21,230244,4,No,Divorced,Yes,Poor,5
+1017,59,Male,R&D,Specialist,Bachelors,2011,23,162513,5,No,Divorced,No,Good,5
+1018,23,Female,Operations,Specialist,Bachelors,2013,16,144735,4,No,Single,No,Good,6
+1019,42,Other,Finance,Specialist,Bachelors,2023,11,180683,4,No,Single,Yes,Poor,6
+1020,54,Male,IT,Manager,Masters,2020,31,144891,4,No,Divorced,Yes,Good,6
+1021,33,Male,Operations,Executive,Masters,2012,14,132971,2,No,Married,Yes,Average,2
+1022,43,Male,IT,Executive,PhD,2022,15,37149,5,No,Married,No,Excellent,10
+1023,46,Female,Finance,Lead,High School,2022,21,125102,4,Yes,Married,No,Excellent,3
+1024,48,Female,Finance,Engineer,PhD,2011,27,84189,5,No,Single,Yes,Excellent,6
+1025,49,Other,IT,Specialist,High School,2007,19,177747,3,No,Married,Yes,Average,8
+1026,37,Other,Sales,Analyst,Masters,2022,32,96031,3,No,Single,No,Good,1
+1027,36,Other,HR,Engineer,Masters,2014,9,67668,4,Yes,Single,Yes,Good,1
+1028,24,Female,Sales,Engineer,Masters,2011,31,169745,5,Yes,Married,Yes,Poor,2
+1029,58,Female,Sales,Executive,PhD,2021,32,232738,5,No,Married,No,Good,6
+1030,28,Other,R&D,Engineer,Bachelors,2018,1,113204,5,Yes,Divorced,Yes,Poor,9
+1031,42,Other,Sales,Specialist,Bachelors,2007,32,236830,2,No,Divorced,No,Average,4
+1032,30,Female,Operations,Specialist,Masters,2016,32,221501,3,No,Married,Yes,Excellent,3
+1033,39,Other,R&D,Manager,Bachelors,2017,12,179741,5,No,Single,Yes,Excellent,8
+1034,25,Male,R&D,Specialist,Bachelors,2006,29,190140,5,Yes,Single,No,Excellent,10
+1035,46,Female,Finance,Specialist,PhD,2007,32,244861,2,No,Single,No,Good,9
+1036,35,Other,Sales,Executive,High School,2009,12,165507,2,Yes,Single,Yes,Poor,5
+1037,30,Female,Finance,Specialist,Masters,2015,25,208321,5,Yes,Single,No,Poor,9
+1038,47,Male,IT,Manager,Masters,2012,21,62384,1,No,Divorced,Yes,Average,2
+1039,23,Female,HR,Analyst,PhD,2016,1,106929,5,No,Married,Yes,Good,3
+1040,41,Female,R&D,Executive,PhD,2011,25,152959,5,No,Divorced,No,Average,7
+1041,49,Female,IT,Analyst,Bachelors,2019,14,101153,2,No,Single,Yes,Poor,7
+1042,28,Female,IT,Executive,Masters,2021,33,100388,2,No,Single,Yes,Poor,6
+1043,29,Male,Operations,Lead,High School,2008,10,56401,5,No,Single,No,Excellent,6
+1044,56,Female,HR,Engineer,PhD,2017,2,227903,5,No,Single,No,Good,2
+1045,35,Female,IT,Lead,High School,2022,5,144503,5,No,Married,Yes,Poor,10
+1046,38,Other,IT,Specialist,High School,2005,8,152834,2,Yes,Single,No,Excellent,6
+1047,57,Female,HR,Analyst,Masters,2020,5,59084,5,No,Married,No,Good,4
+1048,25,Other,HR,Specialist,Masters,2017,8,135641,5,Yes,Single,No,Average,3
+1049,23,Male,IT,Engineer,PhD,2014,30,130111,4,No,Married,No,Good,2
+1050,27,Male,HR,Executive,Masters,2016,31,211898,1,No,Divorced,Yes,Good,1
+1051,25,Male,IT,Engineer,Masters,2006,11,192523,3,No,Single,Yes,Poor,5
+1052,50,Male,IT,Manager,Masters,2007,7,163299,1,No,Married,Yes,Poor,2
+1053,39,Other,Operations,Engineer,High School,2014,7,187982,4,No,Divorced,No,Good,2
+1054,47,Female,Sales,Manager,PhD,2006,27,61041,3,Yes,Single,No,Poor,7
+1055,55,Male,IT,Engineer,Bachelors,2017,19,113920,5,No,Single,No,Poor,8
+1056,31,Female,Finance,Manager,High School,2017,6,90681,4,No,Single,No,Poor,10
+1057,57,Other,R&D,Analyst,Masters,2022,10,106571,5,No,Married,No,Excellent,8
+1058,35,Other,Sales,Specialist,High School,2007,19,221553,2,Yes,Married,No,Excellent,4
+1059,52,Other,Sales,Specialist,Masters,2011,15,224648,4,No,Divorced,No,Good,1
+1060,36,Male,Sales,Lead,Masters,2018,3,152556,2,No,Married,Yes,Poor,7
+1061,29,Female,Operations,Specialist,High School,2021,5,220246,4,No,Married,Yes,Excellent,1
+1062,35,Female,IT,Executive,PhD,2016,21,51160,4,No,Single,No,Good,4
+1063,44,Female,Operations,Engineer,Masters,2020,25,42633,2,No,Single,No,Poor,8
+1064,42,Other,IT,Lead,PhD,2016,2,42014,3,No,Single,No,Average,2
+1065,37,Male,Operations,Executive,Bachelors,2019,13,105532,1,No,Single,Yes,Poor,6
+1066,39,Other,Operations,Executive,Masters,2014,10,74104,5,Yes,Single,Yes,Poor,6
+1067,45,Other,R&D,Manager,PhD,2011,17,197693,4,No,Single,No,Excellent,9
+1068,47,Female,Finance,Specialist,PhD,2009,11,102231,5,Yes,Single,No,Good,5
+1069,46,Other,Operations,Analyst,Bachelors,2005,22,93388,2,No,Divorced,Yes,Good,10
+1070,50,Female,R&D,Analyst,PhD,2021,11,41014,5,No,Divorced,Yes,Excellent,4
+1071,36,Male,HR,Lead,PhD,2007,12,117578,2,No,Divorced,Yes,Poor,5
+1072,22,Female,Finance,Analyst,Bachelors,2017,24,189827,5,No,Divorced,Yes,Average,10
+1073,46,Male,Operations,Engineer,Masters,2018,18,65390,1,Yes,Single,No,Poor,5
+1074,28,Female,Sales,Analyst,PhD,2022,7,48711,1,Yes,Divorced,Yes,Poor,8
+1075,30,Other,HR,Lead,PhD,2008,28,116658,1,No,Single,Yes,Average,10
+1076,45,Other,HR,Analyst,PhD,2022,31,82993,1,No,Divorced,No,Excellent,8
+1077,22,Male,R&D,Engineer,High School,2009,17,230768,1,Yes,Married,Yes,Good,2
+1078,29,Male,HR,Manager,Bachelors,2020,5,183285,1,No,Divorced,Yes,Excellent,7
+1079,45,Male,Finance,Lead,High School,2005,17,213856,2,No,Divorced,Yes,Excellent,8
+1080,32,Female,Operations,Manager,Bachelors,2018,18,32421,4,No,Single,No,Poor,6
+1081,38,Female,Operations,Manager,Masters,2019,21,243008,5,No,Divorced,Yes,Good,5
+1082,29,Male,Sales,Manager,Masters,2013,31,42727,1,No,Married,No,Good,9
+1083,56,Other,R&D,Executive,PhD,2019,2,137418,2,No,Single,No,Excellent,3
+1084,56,Female,Sales,Specialist,Bachelors,2021,27,29358,2,No,Single,Yes,Average,10
+1085,54,Female,HR,Executive,Masters,2008,9,90108,2,No,Divorced,Yes,Excellent,4
+1086,26,Female,Sales,Specialist,Bachelors,2016,34,119018,4,No,Single,Yes,Average,9
+1087,49,Male,Finance,Manager,Masters,2009,28,149457,5,No,Single,Yes,Good,6
+1088,28,Male,Operations,Lead,High School,2009,14,188189,4,No,Single,No,Excellent,8
+1089,30,Male,HR,Specialist,Masters,2015,32,244772,3,No,Single,Yes,Poor,7
+1090,29,Male,Sales,Engineer,High School,2010,6,56910,2,Yes,Single,Yes,Excellent,2
+1091,33,Male,R&D,Engineer,Masters,2011,11,151888,3,No,Single,Yes,Good,3
+1092,55,Other,Finance,Analyst,PhD,2018,29,80754,1,No,Married,No,Poor,1
+1093,54,Other,Finance,Specialist,High School,2015,20,218510,1,Yes,Divorced,Yes,Poor,9
+1094,44,Male,Sales,Lead,Masters,2017,30,134847,4,No,Married,Yes,Average,7
+1095,45,Female,Operations,Executive,PhD,2006,23,185443,5,No,Single,No,Poor,1
+1096,58,Male,Sales,Manager,High School,2011,19,207573,3,No,Single,No,Poor,3
+1097,56,Other,HR,Analyst,PhD,2008,3,217018,5,No,Divorced,Yes,Excellent,4
+1098,43,Other,Sales,Engineer,Bachelors,2012,27,63467,4,No,Married,Yes,Good,4
+1099,48,Female,Finance,Executive,Bachelors,2023,19,173697,1,Yes,Divorced,Yes,Average,5
+1100,56,Other,Sales,Executive,High School,2017,23,58893,5,No,Married,Yes,Excellent,3
+1101,22,Male,Operations,Manager,Masters,2018,31,101329,5,No,Single,Yes,Poor,3
+1102,56,Female,R&D,Specialist,High School,2014,33,56007,1,No,Divorced,No,Poor,1
+1103,58,Male,IT,Engineer,PhD,2015,1,247374,3,No,Divorced,No,Average,7
+1104,35,Male,Sales,Lead,Masters,2006,14,195604,1,No,Single,Yes,Good,10
+1105,24,Female,Operations,Executive,Bachelors,2013,33,79253,5,No,Divorced,Yes,Average,1
+1106,22,Male,Operations,Manager,Masters,2021,5,37323,3,No,Married,No,Excellent,2
+1107,26,Other,R&D,Lead,Bachelors,2007,11,136335,3,No,Married,Yes,Average,4
+1108,47,Male,Finance,Specialist,Masters,2010,2,137356,1,No,Married,Yes,Poor,4
+1109,35,Female,Operations,Engineer,Masters,2009,17,135944,5,Yes,Married,Yes,Excellent,5
+1110,48,Female,Operations,Specialist,Masters,2009,20,229451,4,Yes,Single,Yes,Poor,2
+1111,30,Female,Operations,Executive,PhD,2019,14,170282,5,No,Divorced,Yes,Good,4
+1112,36,Male,Operations,Lead,PhD,2021,32,41456,2,Yes,Married,No,Poor,1
+1113,36,Female,HR,Lead,High School,2013,34,56367,4,No,Single,Yes,Poor,2
+1114,47,Female,HR,Lead,High School,2007,25,79624,3,No,Divorced,Yes,Average,1
+1115,34,Male,Finance,Executive,Bachelors,2021,7,166178,4,No,Divorced,Yes,Poor,10
+1116,53,Other,Sales,Executive,PhD,2014,29,93008,3,No,Single,No,Excellent,10
+1117,53,Male,Operations,Specialist,Bachelors,2007,22,150926,3,No,Single,No,Excellent,4
+1118,25,Female,R&D,Analyst,High School,2022,13,140395,4,No,Married,No,Good,4
+1119,51,Female,Sales,Specialist,Bachelors,2022,13,141492,3,Yes,Divorced,No,Excellent,7
+1120,58,Male,R&D,Engineer,High School,2021,1,97240,3,No,Divorced,Yes,Average,10
+1121,44,Other,Sales,Manager,PhD,2007,4,89315,2,No,Single,No,Good,9
+1122,36,Female,Finance,Lead,Masters,2007,13,225321,5,No,Divorced,Yes,Excellent,9
+1123,50,Female,Operations,Analyst,PhD,2010,24,226659,5,No,Married,Yes,Average,5
+1124,57,Female,Operations,Manager,Bachelors,2017,19,35756,2,No,Divorced,No,Excellent,10
+1125,34,Male,IT,Analyst,Bachelors,2019,1,224083,4,No,Single,No,Excellent,1
+1126,53,Female,R&D,Specialist,PhD,2013,5,61378,1,No,Single,No,Poor,1
+1127,28,Other,Sales,Executive,PhD,2008,16,160327,1,Yes,Married,No,Excellent,6
+1128,43,Female,Sales,Lead,High School,2018,24,170556,1,No,Married,No,Excellent,2
+1129,49,Female,HR,Specialist,Bachelors,2009,27,150703,2,Yes,Divorced,Yes,Average,8
+1130,23,Other,IT,Manager,Bachelors,2006,1,81549,2,Yes,Divorced,No,Average,9
+1131,27,Female,HR,Manager,PhD,2015,34,190575,3,Yes,Single,No,Poor,4
+1132,49,Male,HR,Manager,Masters,2013,4,98794,1,No,Married,No,Excellent,5
+1133,49,Male,HR,Manager,Bachelors,2007,0,70113,4,No,Married,Yes,Poor,8
+1134,41,Male,R&D,Manager,Masters,2013,11,99069,4,No,Married,No,Excellent,3
+1135,51,Other,R&D,Analyst,PhD,2007,22,161321,1,No,Divorced,Yes,Good,5
+1136,32,Female,Finance,Specialist,PhD,2006,30,175273,1,No,Married,No,Good,3
+1137,49,Male,Finance,Lead,High School,2016,10,150541,1,Yes,Single,No,Poor,10
+1138,46,Other,HR,Executive,Bachelors,2014,9,214648,2,No,Single,Yes,Poor,3
+1139,54,Female,IT,Executive,Masters,2013,2,34686,2,No,Divorced,No,Poor,3
+1140,22,Other,Sales,Specialist,High School,2019,13,78363,2,No,Divorced,Yes,Average,7
+1141,48,Male,R&D,Specialist,Bachelors,2012,15,122543,5,No,Married,Yes,Average,7
+1142,34,Male,IT,Executive,High School,2009,9,156733,4,Yes,Divorced,Yes,Average,7
+1143,24,Male,Operations,Executive,PhD,2015,28,200915,4,No,Single,No,Poor,10
+1144,27,Other,R&D,Analyst,Bachelors,2006,9,120673,3,No,Married,No,Excellent,8
+1145,29,Other,R&D,Engineer,High School,2019,11,217035,2,No,Single,No,Good,5
+1146,48,Male,Finance,Lead,High School,2010,29,67828,5,Yes,Married,Yes,Poor,5
+1147,30,Other,Sales,Manager,Masters,2012,0,73604,5,No,Divorced,No,Average,4
+1148,58,Male,Sales,Engineer,High School,2009,4,35526,4,No,Married,Yes,Average,7
+1149,54,Male,Operations,Specialist,Bachelors,2020,19,93910,2,Yes,Married,No,Poor,10
+1150,45,Female,Operations,Executive,Bachelors,2022,7,50592,3,No,Single,Yes,Poor,4
+1151,36,Other,R&D,Engineer,Masters,2010,11,53982,2,No,Single,Yes,Average,2
+1152,53,Male,HR,Lead,Bachelors,2009,0,25207,1,No,Married,Yes,Excellent,4
+1153,53,Male,Finance,Specialist,PhD,2020,19,113733,2,No,Divorced,No,Average,8
+1154,45,Other,Finance,Manager,Bachelors,2017,27,149982,1,No,Divorced,Yes,Average,9
+1155,33,Female,R&D,Manager,Bachelors,2009,11,93619,1,No,Single,Yes,Poor,3
+1156,23,Female,IT,Lead,High School,2017,27,185400,3,No,Divorced,Yes,Excellent,7
+1157,24,Male,HR,Lead,High School,2021,14,71479,4,Yes,Single,Yes,Average,9
+1158,58,Other,R&D,Executive,Bachelors,2022,5,176175,2,No,Divorced,Yes,Average,4
+1159,38,Female,HR,Manager,Masters,2012,19,195963,1,No,Married,Yes,Good,10
+1160,23,Other,HR,Specialist,High School,2017,13,166826,2,No,Single,No,Poor,3
+1161,23,Other,HR,Engineer,Masters,2023,1,106437,4,No,Single,No,Good,5
+1162,49,Male,R&D,Specialist,Bachelors,2007,8,123540,4,Yes,Married,Yes,Good,1
+1163,44,Female,Finance,Analyst,Bachelors,2012,19,97982,5,No,Single,No,Average,3
+1164,58,Male,Finance,Analyst,PhD,2006,25,127747,4,No,Divorced,No,Poor,8
+1165,53,Female,HR,Lead,High School,2012,28,211994,3,No,Divorced,Yes,Excellent,8
+1166,54,Female,IT,Executive,Bachelors,2017,0,73231,1,No,Single,Yes,Average,4
+1167,22,Female,Sales,Analyst,PhD,2017,34,54301,5,No,Divorced,Yes,Excellent,2
+1168,40,Female,R&D,Manager,High School,2005,5,247724,3,Yes,Single,No,Excellent,8
+1169,23,Female,Sales,Specialist,Bachelors,2010,4,218783,2,No,Married,Yes,Poor,8
+1170,47,Other,IT,Specialist,Bachelors,2023,32,197395,1,Yes,Single,No,Good,10
+1171,53,Male,R&D,Lead,High School,2020,13,43752,4,Yes,Married,Yes,Poor,4
+1172,27,Other,HR,Engineer,High School,2012,11,238277,1,No,Divorced,No,Excellent,3
+1173,53,Female,Finance,Lead,High School,2005,19,123452,2,No,Married,Yes,Average,2
+1174,25,Male,Sales,Engineer,Bachelors,2020,23,169467,5,No,Divorced,Yes,Excellent,9
+1175,32,Female,Operations,Lead,Bachelors,2013,33,242029,5,No,Single,No,Average,1
+1176,38,Male,Operations,Lead,PhD,2017,24,146237,5,No,Divorced,No,Average,7
+1177,59,Other,IT,Lead,Masters,2015,28,81273,4,No,Single,No,Poor,5
+1178,45,Male,HR,Engineer,High School,2017,30,116878,3,No,Single,No,Excellent,8
+1179,26,Male,Sales,Engineer,Bachelors,2014,22,29895,3,Yes,Married,No,Good,4
+1180,55,Male,HR,Lead,Bachelors,2008,19,144968,1,No,Married,No,Excellent,7
+1181,27,Male,Sales,Analyst,High School,2010,22,140700,4,No,Married,Yes,Excellent,5
+1182,43,Male,IT,Executive,Masters,2011,15,101559,5,No,Married,No,Good,5
+1183,32,Female,IT,Executive,High School,2009,7,35699,5,No,Divorced,Yes,Poor,9
+1184,37,Male,Operations,Executive,Masters,2015,20,221133,2,No,Divorced,Yes,Excellent,9
+1185,54,Male,HR,Engineer,Bachelors,2017,0,34715,2,No,Divorced,No,Excellent,9
+1186,30,Other,R&D,Engineer,Masters,2023,7,44169,5,No,Single,Yes,Average,6
+1187,27,Male,Operations,Analyst,PhD,2014,28,143413,5,No,Divorced,No,Excellent,6
+1188,37,Other,HR,Executive,Bachelors,2014,31,172235,4,No,Divorced,No,Good,5
+1189,50,Female,Operations,Executive,PhD,2015,4,144264,3,No,Divorced,Yes,Average,9
+1190,24,Male,R&D,Lead,High School,2011,21,30782,2,Yes,Married,Yes,Poor,10
+1191,41,Other,Finance,Engineer,High School,2022,33,244249,3,Yes,Divorced,No,Average,8
+1192,57,Other,Finance,Executive,High School,2008,0,149481,4,No,Single,No,Good,7
+1193,40,Female,Finance,Specialist,Masters,2006,25,240400,5,No,Married,Yes,Good,7
+1194,47,Male,Finance,Analyst,Bachelors,2018,9,60585,3,No,Single,Yes,Average,6
+1195,24,Male,Sales,Specialist,High School,2017,29,55682,5,No,Divorced,Yes,Poor,5
+1196,40,Other,Finance,Specialist,High School,2016,17,203936,5,Yes,Married,Yes,Average,4
+1197,41,Male,R&D,Analyst,Bachelors,2011,16,154992,1,No,Single,No,Poor,3
+1198,53,Other,IT,Specialist,High School,2006,25,109416,3,No,Divorced,No,Average,3
+1199,28,Male,IT,Executive,PhD,2017,7,211186,3,No,Single,No,Good,6
+1200,54,Other,Sales,Engineer,Bachelors,2018,11,152810,5,No,Single,No,Excellent,4
+1201,39,Male,Finance,Analyst,Bachelors,2021,26,63067,4,No,Single,Yes,Excellent,6
+1202,22,Female,Finance,Lead,Bachelors,2013,7,198757,1,No,Divorced,Yes,Poor,3
+1203,32,Male,Finance,Specialist,PhD,2021,24,43073,5,No,Divorced,No,Poor,4
+1204,49,Male,Operations,Analyst,Bachelors,2012,3,61035,2,Yes,Single,No,Poor,9
+1205,46,Female,HR,Manager,PhD,2006,32,221049,2,No,Married,No,Good,5
+1206,44,Male,Operations,Manager,Bachelors,2017,0,115373,1,Yes,Married,No,Average,7
+1207,52,Female,HR,Engineer,Masters,2007,18,108362,4,No,Divorced,No,Good,10
+1208,51,Male,Finance,Executive,High School,2020,30,115517,5,Yes,Divorced,No,Excellent,2
+1209,56,Other,Finance,Engineer,Masters,2010,15,90450,3,No,Divorced,No,Poor,5
+1210,28,Other,Operations,Engineer,High School,2023,13,35382,1,Yes,Divorced,No,Average,9
+1211,37,Male,Operations,Engineer,PhD,2011,4,160509,4,No,Divorced,No,Excellent,3
+1212,47,Male,HR,Engineer,Masters,2014,25,227043,3,No,Married,Yes,Excellent,9
+1213,23,Male,IT,Lead,Bachelors,2013,27,220684,2,Yes,Divorced,No,Excellent,6
+1214,22,Other,HR,Lead,High School,2006,1,246427,2,Yes,Single,Yes,Good,4
+1215,33,Male,Operations,Analyst,High School,2019,5,86929,3,No,Single,Yes,Poor,7
+1216,26,Other,R&D,Manager,Masters,2009,8,123864,1,No,Married,No,Excellent,8
+1217,58,Female,Operations,Engineer,PhD,2008,32,168401,2,No,Single,No,Poor,6
+1218,53,Other,R&D,Analyst,Masters,2008,24,50169,5,No,Married,Yes,Good,5
+1219,30,Other,Sales,Manager,PhD,2022,12,112468,3,Yes,Married,Yes,Excellent,6
+1220,56,Female,Operations,Specialist,PhD,2008,8,59594,3,No,Single,No,Good,5
+1221,40,Other,Sales,Executive,High School,2021,12,233029,2,No,Divorced,Yes,Good,8
+1222,37,Male,IT,Lead,Masters,2016,30,216703,1,No,Single,No,Poor,1
+1223,24,Male,HR,Specialist,Masters,2021,10,70033,5,No,Single,No,Excellent,7
+1224,41,Other,R&D,Manager,PhD,2014,3,88133,1,No,Married,No,Good,10
+1225,45,Male,HR,Specialist,Masters,2005,33,229237,4,No,Single,Yes,Excellent,10
+1226,54,Other,Sales,Executive,Bachelors,2022,3,98861,4,Yes,Married,Yes,Poor,2
+1227,45,Male,R&D,Manager,Bachelors,2022,18,208362,2,No,Divorced,No,Good,9
+1228,32,Male,HR,Specialist,Masters,2018,5,56750,2,No,Divorced,Yes,Poor,1
+1229,29,Other,Operations,Lead,Masters,2019,33,65461,2,No,Divorced,Yes,Excellent,10
+1230,57,Male,Finance,Lead,PhD,2016,17,229872,4,Yes,Single,Yes,Excellent,6
+1231,59,Other,Sales,Analyst,Bachelors,2008,12,103222,1,Yes,Married,Yes,Poor,9
+1232,41,Male,HR,Specialist,Bachelors,2007,22,137020,1,No,Divorced,Yes,Average,1
+1233,56,Male,Sales,Engineer,High School,2016,18,49226,2,No,Married,Yes,Good,4
+1234,46,Female,Sales,Specialist,PhD,2011,10,31721,5,No,Married,Yes,Excellent,4
+1235,56,Female,R&D,Manager,High School,2015,0,212226,1,No,Divorced,No,Excellent,9
+1236,46,Other,R&D,Manager,Bachelors,2005,23,45609,4,Yes,Divorced,Yes,Good,5
+1237,50,Female,Finance,Specialist,PhD,2010,6,208202,3,No,Married,Yes,Poor,5
+1238,39,Other,Operations,Executive,Masters,2019,24,155513,3,No,Divorced,Yes,Poor,6
+1239,39,Female,Sales,Lead,PhD,2019,20,228981,3,No,Married,Yes,Poor,1
+1240,23,Male,HR,Manager,Masters,2023,14,129211,5,Yes,Married,Yes,Average,1
+1241,56,Other,IT,Lead,Masters,2015,0,211321,2,No,Divorced,Yes,Average,9
+1242,37,Other,Sales,Manager,PhD,2006,11,204967,4,Yes,Single,Yes,Excellent,3
+1243,57,Male,Sales,Analyst,Masters,2018,6,161728,5,No,Divorced,Yes,Poor,4
+1244,54,Other,Finance,Engineer,High School,2006,14,149865,4,Yes,Single,No,Good,1
+1245,25,Other,Operations,Manager,Bachelors,2008,20,99520,4,No,Married,Yes,Excellent,9
+1246,54,Female,IT,Lead,Masters,2021,18,219812,2,No,Married,Yes,Good,8
+1247,35,Other,R&D,Analyst,High School,2007,28,89309,3,No,Single,Yes,Excellent,2
+1248,42,Male,R&D,Manager,Masters,2017,24,54984,2,No,Married,Yes,Average,8
+1249,41,Female,HR,Executive,Bachelors,2013,32,143947,5,No,Single,No,Excellent,7
+1250,29,Female,IT,Engineer,High School,2011,31,229894,5,No,Single,No,Average,6
+1251,28,Male,R&D,Manager,Bachelors,2019,34,30901,5,No,Married,No,Excellent,1
+1252,24,Male,HR,Analyst,Bachelors,2015,25,187624,2,No,Single,No,Poor,7
+1253,38,Female,Operations,Executive,High School,2006,10,247317,4,No,Divorced,No,Good,10
+1254,54,Other,HR,Specialist,High School,2019,34,56055,4,No,Divorced,No,Poor,7
+1255,33,Female,R&D,Analyst,High School,2018,7,193757,1,No,Married,No,Excellent,9
+1256,43,Male,Finance,Analyst,PhD,2015,13,230037,5,No,Married,No,Excellent,1
+1257,43,Female,Finance,Executive,High School,2007,9,170788,4,No,Single,No,Excellent,2
+1258,51,Male,Finance,Analyst,High School,2021,1,139099,1,Yes,Single,No,Average,9
+1259,59,Female,R&D,Executive,High School,2016,8,36138,4,Yes,Single,No,Good,9
+1260,59,Other,Finance,Manager,High School,2019,2,191370,5,No,Single,No,Good,6
+1261,29,Female,IT,Executive,Masters,2020,20,207184,3,Yes,Divorced,No,Excellent,6
+1262,48,Female,Operations,Executive,PhD,2009,25,48429,5,No,Divorced,No,Excellent,4
+1263,48,Male,HR,Engineer,Bachelors,2010,7,75200,2,No,Married,No,Average,4
+1264,55,Male,HR,Executive,High School,2023,1,227380,4,No,Single,No,Poor,5
+1265,42,Male,R&D,Executive,Masters,2009,5,204316,4,Yes,Single,Yes,Poor,3
+1266,51,Female,Finance,Specialist,Masters,2007,27,126268,2,No,Married,No,Good,1
+1267,54,Other,Finance,Manager,Masters,2005,28,42347,2,No,Single,Yes,Average,1
+1268,49,Male,Sales,Engineer,Bachelors,2010,25,172992,3,No,Single,No,Excellent,7
+1269,54,Male,Operations,Specialist,High School,2019,24,56822,4,Yes,Single,No,Good,1
+1270,26,Female,IT,Lead,PhD,2006,11,202731,4,No,Single,Yes,Average,1
+1271,40,Male,HR,Manager,PhD,2007,4,65108,3,No,Single,No,Poor,3
+1272,25,Other,Sales,Manager,Masters,2021,33,153955,1,No,Married,Yes,Average,10
+1273,56,Other,Sales,Lead,Bachelors,2016,14,245171,3,No,Single,Yes,Poor,4
+1274,38,Male,R&D,Executive,Bachelors,2022,14,32967,5,No,Married,Yes,Average,4
+1275,49,Male,HR,Specialist,Bachelors,2019,22,135719,4,No,Single,No,Good,2
+1276,51,Female,R&D,Analyst,PhD,2016,5,36871,2,No,Divorced,No,Poor,1
+1277,50,Other,IT,Engineer,Masters,2020,20,233524,5,No,Divorced,No,Good,3
+1278,27,Other,Sales,Analyst,High School,2012,22,230342,4,No,Divorced,Yes,Good,4
+1279,56,Male,Sales,Lead,PhD,2018,15,189685,3,No,Divorced,Yes,Poor,3
+1280,58,Female,Operations,Manager,Masters,2021,14,53179,5,No,Married,No,Poor,8
+1281,45,Other,IT,Manager,Masters,2012,24,208260,4,No,Married,No,Excellent,10
+1282,50,Other,Sales,Engineer,High School,2019,10,80099,1,No,Single,No,Excellent,1
+1283,52,Female,IT,Manager,High School,2018,14,60262,1,No,Divorced,No,Excellent,2
+1284,56,Female,HR,Manager,High School,2022,3,103213,2,No,Married,No,Good,7
+1285,54,Other,Finance,Engineer,Bachelors,2011,20,142407,4,No,Single,Yes,Good,4
+1286,42,Other,Sales,Specialist,High School,2007,12,174340,1,No,Single,Yes,Excellent,8
+1287,53,Female,Operations,Specialist,Masters,2016,21,233938,3,No,Married,Yes,Good,3
+1288,44,Other,HR,Engineer,High School,2007,18,111269,4,No,Divorced,No,Good,6
+1289,54,Male,IT,Lead,Masters,2018,33,85545,3,Yes,Single,Yes,Poor,9
+1290,24,Male,R&D,Manager,PhD,2019,13,248894,3,No,Divorced,Yes,Poor,1
+1291,39,Female,HR,Manager,Bachelors,2018,3,228218,1,Yes,Divorced,Yes,Good,1
+1292,46,Female,Sales,Lead,PhD,2011,26,228038,4,No,Divorced,Yes,Excellent,8
+1293,52,Female,IT,Specialist,PhD,2021,28,64922,5,Yes,Single,Yes,Average,3
+1294,24,Male,Finance,Executive,Masters,2016,27,235436,1,No,Divorced,No,Excellent,5
+1295,45,Other,HR,Executive,PhD,2008,34,67913,1,Yes,Single,Yes,Average,1
+1296,53,Male,Sales,Executive,Masters,2013,7,122033,4,No,Divorced,No,Excellent,5
+1297,43,Other,Operations,Specialist,High School,2010,15,129792,4,No,Single,No,Poor,6
+1298,44,Male,R&D,Specialist,High School,2020,29,211749,3,Yes,Divorced,No,Good,8
+1299,23,Other,IT,Lead,Masters,2006,17,205913,4,No,Married,No,Good,3
+1300,48,Male,HR,Manager,High School,2012,1,202404,3,Yes,Divorced,No,Poor,3
