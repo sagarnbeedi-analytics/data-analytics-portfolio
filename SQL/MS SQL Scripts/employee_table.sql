@@ -24,3 +24,9 @@ insert into employees values
 (8,'ramesh patil',54,'salesman','2025-06-12',65000,20),
 (9,'vinod kumar',39,'clerk','2025-08-24',89000,40),
 (10,'reshma thomas',26,'manager','2025-02-13',40000,10);
+
+
+
+
+
+
