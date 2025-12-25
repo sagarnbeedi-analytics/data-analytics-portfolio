@@ -1,0 +1,21 @@
+{
+  "employee_id": 1024,
+  "name": "Sagar Beedi",
+  "role": "Data Analyst",
+  "skills": ["Python", "SQL", "Excel", "Power BI"],
+  "experience_years": 3.5,
+  "is_active": true,
+  "projects": [
+    {
+      "project_id": "P001",
+      "project_name": "Sales Automation",
+      "status": "completed"
+    },
+    {
+      "project_id": "P002",
+      "project_name": "Marketing Dashboard",
+      "status": "in_progress"
+    }
+  ],
+  "last_updated": "2025-12-25"
+}
