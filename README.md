@@ -8,12 +8,14 @@
 I'm an aspiring **Data Analyst** passionate about turning raw data into insights and helping businesses make data-driven decisions.  
 Currently mastering:
 
-- SQL (MySQL + MS SQL Server)
+- SQL (MySQL + MSSQL + BigQuery)
 - Python for Data Analysis
+- python for automation
 - Power BI
 - Tableau
 - Excel (Advanced)
 - Git & GitHub for version control
+- Statistics and Probability
 
 I love solving real-world business problems using data and continuously improving my analytical skills.
 
@@ -22,22 +24,21 @@ I love solving real-world business problems using data and continuously improvin
 ## 🛠️ Skills & Tools
 
 ### **Languages**
-- SQL (MySQL, MS SQL Server)
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-
+- SQL (MySQL, MS SQL Server, BigQuery)
+- Python for data analyst (Pandas, NumPy, Matplotlib, Seaborn)
+- python for automation (os,shutil,openpyxl,request,json,logging,schedule,sqlalchemy)
 ### **Analytics Tools**
 - Power BI  
 - Tableau  
 - Excel  
-
 ### **Databases**
 - MySQL  
-- SQL Server  
+- SQL Server
+- BigQuery
 
 ### **Version Control**
 - Git  
 - GitHub  
-
 ---
 
 ## 📂 Projects (More Coming Soon!)
