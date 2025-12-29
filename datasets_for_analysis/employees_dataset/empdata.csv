@@ -1,0 +1,16 @@
+﻿EmployeeID,FirstName,LastName,Department,Position,Salary,JoiningDate,Email
+10100%,John,Doe,Engineering,Software Engineer,7500000%,4353900%,john.doe@example.com
+10200%,Jane,Smith,Marketing,Marketing Manager,6800000%,4401300%,jane.smith@example.com
+10300%,Michael,Brown,Engineering,Senior Developer,8800000%,4342400%,michael.brown@example.com
+10400%,Linda,Johnson,HR,HR Executive,5500000%,4420600%,linda.johnson@example.com
+10500%,Robert,Williams,Finance,Accountant,6200000%,4371300%,robert.williams@example.com
+10600%,Emily,Jones,Engineering,Data Scientist,9200000%,4396900%,emily.jones@example.com
+10700%,David,Miller,Engineering,,8000000%,4380100%,david.miller@example.com
+10800%,Sarah,Davis,Marketing,Content Writer,5000000%,4436100%,sarah.davis@example.com
+10900%,Chris,Wilson,Engineering,DevOps Engineer,8700000%,4333900%,chris.wilson@example.com
+11000%,Amy,Moore,Finance,,5800000%,4387200%,amy.moore@example.com
+11100%,Daniel,Taylor,Engineering,Software Engineer,7600000%,4446900%,daniel.taylor@example.com
+11200%,Jessica,Anderson,HR,Recruiter,5400000%,4357700%,jessica.anderson@example.com
+11300%,Matthew,Thomas,Engineering,Backend Developer,8100000%,4410900%,matthew.thomas@example.com
+11400%,Laura,Jackson,Marketing,SEO Specialist,6100000%,4345300%,laura.jackson@example.com
+11500%,Kevin,White,Finance,Financial Analyst,7000000%,4365400%,kevin.white@example.com
