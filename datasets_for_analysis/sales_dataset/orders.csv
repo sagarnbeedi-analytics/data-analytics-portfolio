@@ -4,3 +4,6 @@ OrderID,CustomerID,City,State,OrderAmount
 103,3,New York,NY,12000
 104,4,London,LN,9000
 105,5,Seoul,KR,15000
+102,2,Delhi,DL,7000
+103,3,New York,NY,12000
+104,4,London,LN,9000
